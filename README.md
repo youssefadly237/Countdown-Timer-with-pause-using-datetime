@@ -12,7 +12,7 @@ This Python script allows you to create a countdown timer with a pause feature u
 1. Run the script in a Python environment.
 2. Enter the duration of the timer by providing the number of hours, minutes, and seconds when prompted.
 3. The timer will start counting down immediately.
-4. Press the 'p' key to pause the timer.
+4. Press the 'p' key to pause the timer (maybe you will need long press).
 5. Press the 's' key to resume the timer.
 6. The remaining time will be displayed continuously until the timer reaches the specified duration.
 
